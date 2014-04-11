@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Gochi+Hand);
 @import url(http://fonts.googleapis.com/css?family=Patrick+Hand+SC);
 body {
-  background-color: #bda27e;
+  background-image: url('../media/squared_metal.png');
 }
 h1 {
   text-align: center;
